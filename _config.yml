@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "hangzhou,china"
-title                    : "Xiaoliu Yang/ 晓柳的个人主页"
+title                    : "晓柳居-xiaoliu's room"
 title_separator          : "-"
 name                     : &name "Xiaoliu Yang"
 description              : &description "personal description"
@@ -42,7 +42,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "yangxiaoliu"
+  github           : "yang321010"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
