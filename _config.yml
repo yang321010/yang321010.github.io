@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "hangzhou,china"
-title                    : "晓柳居-xiaoliu's room"
+title                    : "xiaoliu's space"
 title_separator          : "-"
 name                     : &name "Xiaoliu Yang"
 description              : &description "personal description"
